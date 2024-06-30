@@ -1,4 +1,7 @@
 {
   "name": "ThreeFiberTest",
-  "displayName": "ThreeFiberTest"
+  "displayName": "ThreeFiberTest",
+  "plugins": [
+    "expo-asset"
+  ]
 }
